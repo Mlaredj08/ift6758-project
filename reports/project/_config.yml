@@ -1,0 +1,21 @@
+# Setup
+title:               IFT6758 Blog
+tagline:             'A data science project on real data'
+description:         'Welcome to our project.'
+url:                 ''
+baseurl:             ''
+paginate:            5
+permalink:           pretty
+
+# About/contact
+author:
+  name:              Etienne Delisle, Kevin Ousmane Traore, Mohammed Laredj, Paul Villedieu
+  email:             etienne.delisle@umontreal.ca, kevin.ousmane.traore@umontreal.ca, mohammed.laredj@umontreal.ca, paul.villedieu@umontreal.ca
+
+# Gems
+plugins:
+  - jekyll-paginate
+
+# Custom vars
+version:             1.1.0
+google_analytics_id: #UA-XXXX-Y
